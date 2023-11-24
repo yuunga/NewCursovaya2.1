@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewCursovaya</string>
+    <string name="title_recording">Запись</string>
+    <string name="title_history">История</string>
+    <string name="title_broadcast">Передать</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
